@@ -141,7 +141,7 @@ def forward(self,x,init_states=None):
 
 ![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_train_loss.png)
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_tvalidation_loss.png)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_validation_loss.png)
 
 
 
