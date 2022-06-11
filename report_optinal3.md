@@ -129,19 +129,19 @@ def forward(self,x,init_states=None):
 
 ##### visulization the intermeidate-layer features using PCA and t-SNE
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_pca1.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_pca1.png)
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_tsne1.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_tsne1.png)
 
 ##### the classification loss and accuracy of both the training set and validation set
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_train_accuracy.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_train_accuracy.png)
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_validation_accuracy.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_validation_accuracy.png)
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_train_loss.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_train_loss.png)
 
-![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_tvalidation_loss.jpg)
+![image](https://github.com/TinaJin0228/ml_final/blob/main/op3_tvalidation_loss.png)
 
 
 
